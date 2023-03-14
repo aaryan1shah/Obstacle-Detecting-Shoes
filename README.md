@@ -7,3 +7,5 @@ If an obstacle is detected within 0.5 meters of the user, the vibrating module o
 The Obstacle Detecting Shoes for Blind People project is designed to improve the safety and independence of visually impaired individuals. By alerting the user to obstacles in their path, the shoes can help prevent accidents and provide greater freedom of movement.
 
 This project can be further developed to include additional features such as GPS and voice recognition to help guide the user to a specific destination or provide additional information about their surroundings.
+
+![image](https://user-images.githubusercontent.com/102161136/225139950-7bd11793-bfbb-444e-a59e-ecf974c6cfa3.png)
